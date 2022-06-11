@@ -6,4 +6,5 @@ To meet this need, I created an R function that takes just two arguments (a star
 
 These graphs could be central for use in situation reports, slide decks, and other rapid-response documents that underpin high-quality decision making during a pandemic.
 
+
 ![Top_5_Graph](Top_5_Graph.png)
